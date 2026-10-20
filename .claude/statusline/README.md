@@ -2,13 +2,7 @@
 
 A status line for Claude Code that shows where you are and how full the context is. `.claude/settings.json` wires it up for everyone who opens this repo in Claude Code.
 
-```
-sample-app │ feature/demo │ Opus 5.5 ● high │ $12.40 │ ⏱ 1h12m
-context  ▰▰▱▱▱▱▱▱▱▱  27% 272k/1M  ▲ 250k+
-current  ▰▰▱▱▱▱▱▱▱▱  23% ⟳ 9:20pm
-weekly   ▰▰▰▰▰▰▰▰▰▱  93%  !  ⟳ oct 17, 10:06pm
-→ Context 272k: run /compact to make every next turn cheaper
-```
+![status line](nord.png)
 
 | Part | Meaning |
 |---|---|
