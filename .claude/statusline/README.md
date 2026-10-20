@@ -28,6 +28,8 @@ The cost is Claude Code's own estimate at list price, not an invoice.
 
 Pick your own palette. The choice is stored in `~/.claude/statusline-theme`, outside the repo, so it is never committed.
 
+![All themes](themes.png)
+
 ```
 .claude/statusline/statusline.sh --themes            # preview every theme
 .claude/statusline/statusline.sh --set-theme dracula # nord (default), default, dracula, gruvbox, solarized, neon, pastel, mono
